@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "postinstall": "echo \"Move here your build step for Heroku",
+    "postinstall": "echo \"Move here your build step for Heroku\"",
     "start": "ts-node ./index.ts"
   },
   "keywords": [],
