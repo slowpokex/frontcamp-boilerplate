@@ -6,4 +6,4 @@ If you have any another folder for compile, you can just change it in environmen
 
 ##NOTE:
 
-Compile your assets in dist folder, after that you can deploy in on Heroku
+Compile your assets in dist folder, after that you can deploy on Heroku
